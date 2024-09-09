@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "NSMA"
 navbar:
-  title: "MyLabJournal"
+  title: "Sociale Media Analyse"
   left:
     - text: "Home"
       href: index.html
