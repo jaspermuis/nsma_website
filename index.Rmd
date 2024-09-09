@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "NSMA deel 2: Sociale Media Analyse"
 output: html_document
 ---
 
